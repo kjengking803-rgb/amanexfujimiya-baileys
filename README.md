@@ -1,4 +1,4 @@
-<h1 align="center">**Rahmad Tenpoles Baileys**</h1>
+<h1 align="center">**Amane Fujimiya**</h1>
 
 <p align="center">
   <img src="https://qu.ax/MoDGQ.jpg" width="450" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
@@ -18,4 +18,4 @@
 ---
 
 ## Overview
-**Rahmad Tenpoles Baileys** adalah versi modifikasi dari *Baileys library* yang dioptimalkan untuk kebutuhan bisnis dan integrasi skala besar. Mendukung berbagai fitur pesan interaktif terbaru dari WhatsApp Business API yang tidak tersedia di library standar.
+**Amane Fujimiya** adalah versi modifikasi dari *Baileys library* yang dioptimalkan untuk kebutuhan bisnis dan integrasi skala besar. Mendukung berbagai fitur pesan interaktif terbaru dari WhatsApp Business API yang tidak tersedia di library standar.

@@ -1,7 +1,7 @@
 {
-    "name": "rahmadtenpoles-baileys",
-    "version": "8.6.22",
-    "description": "WhatsApp API Modification By Rahmad Tenpoles",
+  "name": "amanexfujimiya-baileys",
+  "version": "8.6.24",
+  "description": "Custom WhatsApp Baileys by Amane",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -13,7 +13,7 @@
         "stvnnvs"
     ],
     "license": "MIT",
-    "author": "Anjau Gurinjay",
+    "author": "Amane",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
